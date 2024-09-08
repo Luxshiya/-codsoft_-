@@ -22,6 +22,8 @@ Flow:
 The signup process includes minimal, essential steps to ensure that users can get started quickly without feeling overwhelmed. Error handling and
 validation are built in for a smooth experience.
 
+screenshots:
+
 ![Splash screen](https://github.com/user-attachments/assets/b3a32a87-5f61-47da-9b2f-660d7a64951e)
 ![Splash screen1](https://github.com/user-attachments/assets/460323d7-be59-42f2-a086-b8d02202bc76)
 ![Splash screen2](https://github.com/user-attachments/assets/df1890af-bba8-4148-b66a-23ceacc311e1)
