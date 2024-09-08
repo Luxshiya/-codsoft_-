@@ -15,6 +15,8 @@ Clear call to action
 Mobile-friendly design
 [View Figma Design
 ](https://www.figma.com/design/rmWat81AVsDvSmIYPO8Nmp/Mobile-app-signup-flow?node-id=0-1&t=kS5rkvx5Q4RvWo54-1)
+
+
 2. Task 2: Restaurant Menu for Trattoria Toscana
 Description:
 Created a digital menu for Trattoria Toscana, an Italian restaurant. The menu is designed to be visually appealing, easy to navigate, and user-friendly.
@@ -28,6 +30,8 @@ Well-organized, categorized menu items
 Clear descriptions and prices for each dish
 Visually attractive layout with a traditional Italian feel
 [View Figma Design](https://www.figma.com/design/VTQdenZNddoaodDJKv4XFP/Restaurant-Menu?node-id=0-1&t=7zn1eanAyf85KLjr-1)
+
+
 
 3. Task 3: Book E-Commerce Website for Bound & Beyond
 Description:
